@@ -5,6 +5,12 @@ __pycache__/
 
 # C extensions
 *.so
+#data
+*.csv
+*.json
+Untitled.ipynb
+
+.ipynb_checkpoints
 
 # Distribution / packaging
 .Python
